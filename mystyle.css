@@ -1,0 +1,16 @@
+body {
+    background: #f6c1c1;
+}
+header{
+    text-align: center;
+      background: url('images/wood.jpg');
+      background-size: cover;
+      color: white;
+}
+ .Home {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    a{
+        color; white;
+    }
