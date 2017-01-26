@@ -21,11 +21,8 @@ h1 {
       border-radius: 20px;
     }
     .Home {
-      padding: 10px;
       background: rgba(0,0,0,0.5);
       color:white;
-    }
-    .Home {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
