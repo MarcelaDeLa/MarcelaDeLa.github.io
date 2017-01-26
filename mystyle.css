@@ -10,7 +10,7 @@ header{
 }
     }
     a{
-        color: gray;
+        color: white;
     }
 h1 {
       font-size: 40px;
@@ -20,7 +20,7 @@ h1 {
       border: 7px white;
       border-radius: 20px;
     }
-    Home {
+    .Home {
       background: rgba(0,0,0,0.5);
       display: inline;
       padding: 0px 10px 0px 10px;
