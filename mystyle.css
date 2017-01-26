@@ -7,10 +7,11 @@ header{
       background-size: cover;
       color: white;
 }
- .Home {
+ Home {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
     a{
-        color= white
+        color: white;
     }
+
